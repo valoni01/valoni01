@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! Call me Valentine Awe
 
-<!--
-**valoni01/valoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software Engineer, a technical writer and an upcoming public speaker from Lagos, Nigeria. 
 
-Here are some ideas to get you started:
+I am the founder and Lead host of Angular Africa a community channel on angularnation.net. I have written a few blog post, organised a few interesting meetups and also done some interesting presentations in different angular communites.  **More to come**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning NGRX
+- 👯 I’m looking to collaborate on anything Angular
+- 🤔 I’m looking for help with anything Angular
+- 💬 Ask me about Angular and ofcourse some data engineering questions
+
+- ⚡ Fun fact: I love to Sing and play Chess. I love Leonard Cohen *Everybody Knows*
+
+Twitter: @LawdValoni 
+Blog: https://dev.to/valoni01
