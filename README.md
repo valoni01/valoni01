@@ -13,4 +13,5 @@ I am the founder and Lead host of Angular Africa a community channel on angularn
 - ⚡ Fun fact: I love to Sing and play Chess. I love Leonard Cohen *Everybody Knows*
 
 Twitter: @LawdValoni 
+
 Blog: https://dev.to/valoni01
