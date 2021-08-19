@@ -10,7 +10,7 @@ I am the founder and Lead host of Angular Africa a community channel on angularn
 - 🤔 I’m looking for help with anything Angular
 - 💬 Ask me about Angular and ofcourse some data engineering questions
 
-- ⚡ Fun fact: I love to Sing and play Chess. I love Leonard Cohen *Everybody Knows*
+- ⚡ Fun fact: I love to Sing and play Chess. I love Leonard Cohen And Brymo
 
 Twitter: @LawdValoni 
 
