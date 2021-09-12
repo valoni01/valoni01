@@ -12,6 +12,6 @@ I am the founder and Lead host of Angular Africa a community channel on angularn
 
 - ⚡ Fun fact: I love to Sing and play Chess. I love Leonard Cohen And Brymo
 
-Twitter: @LawdValoni 
+Twitter: [@LawdValoni](https://twitter.com/LawdValoni) 
 
 Blog: https://dev.to/valoni01
